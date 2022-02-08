@@ -1,0 +1,19 @@
+/*------------ work ------------*/
+* {
+  box-sizing: border-box;
+  margin: 1em;
+  padding: 1em;
+}
+img {
+  width: 400px;
+  height: 400px;
+  border-radius: 10%;
+}
+
+.images {
+  padding-top: 8em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
