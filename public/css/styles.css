@@ -151,6 +151,10 @@ nav a:hover {
   color: #3d405b;
 }
 
+.logo {
+  width: 2rem;
+  height: 2rem;
+}
 /* ------ Parallax ------- */
 .parallax {
   background-image: url("../Images/computer.jpg");
